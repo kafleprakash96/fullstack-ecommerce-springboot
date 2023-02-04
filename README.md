@@ -22,6 +22,11 @@ Before you start using the application, make sure you have the following install
 
   Create a database in MySQL. (In this application its full-stack-ecommerce)
 
+<div style="text-align:center">
+  <img src="images/image8.png" height="300" >
+</div>
+
+
   Update the application properties file with your MySQL credentials.
 
   > application.properties file is inside src/main/resources/ directory.
